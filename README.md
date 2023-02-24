@@ -33,10 +33,10 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 Signing up as a new user...
-<img src='' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
+<img src='https://github.com/AlexLecusay/BeReal/blob/main/BeRealGIF1.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
 
 Logging in as an existing user...
-<img src='' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
+<img src='https://github.com/AlexLecusay/BeReal/blob/main/BeRealGIF2.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
 
 
 ## Notes
